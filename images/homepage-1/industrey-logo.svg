@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="745" height="253" viewBox="0 0 745 253">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff0d4;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        font-size: 147.275px;
+        fill: #c7b48f;
+        font-family: "Segoe UI Emoji";
+      }
+
+      .cls-5 {
+        font-size: 264.244px;
+        text-anchor: middle;
+        font-family: Molot;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="124.625" y1="248.094" x2="124.625" y2="5.188" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#636363"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="124.688" y1="192.156" x2="124.688" y2="61.188" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#323232"/>
+      <stop offset="0.97" stop-color="#090909"/>
+      <stop offset="1" stop-color="#414d5a"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path class="cls-1" d="M124.7,6.611c66.98,0,121.278,53.774,121.278,120.108S191.678,246.827,124.7,246.827,3.421,193.053,3.421,126.719,57.719,6.611,124.7,6.611Z"/>
+    <path class="cls-2" d="M31.646,204.033c-19.041-23.3-29.458-52.251-28.3-82.151a118.63,118.63,0,0,1,16.809-56.03C36.792,37.966,72.627,5.119,124.931,5.2c34.213,0.053,65.021,15.221,86.426,37.26,19.842,20.43,33.363,48.515,34.553,79.5,1.855,48.307-25.172,85.721-53.706,105.17a118.731,118.731,0,0,1-132.752,1.346V192.709a91.3,91.3,0,0,0,120.194,8.521c21.187-15.826,40.034-44.514,38.009-79.27-2.608-44.766-40.734-88.418-92.724-88.351-49.137.063-90.157,39.214-92.5,88.351Q32.038,163,31.646,204.033Z"/>
+    <path class="cls-3" d="M124.931,61.191C90.346,61.057,61.6,88.61,59.34,122.185c-2.488,36.953,27.85,70.09,65.591,69.963,35.822-.12,65.812-30.172,65.255-66.488C189.641,90.227,160.2,61.326,124.931,61.191Z"/>
+    <path class="cls-1" d="M88.267,90.566l22.873,35.767-23.658,36.44h25.9l11.1-18.276L134.8,162.885h27.918L138.61,125.548l22.648-34.982H135.7L124.931,107.16l-9.755-16.594H88.267Z"/>
+    <text id="Earth_Penetration_Technologies" data-name="Earth Penetration Technologies" class="cls-4" transform="matrix(0.231, 0, 0, 0.231, 253.792, 174.558)">Earth Penetration Technologies</text>
+    <text id="purextract" class="cls-5" transform="translate(499.484 141.645) scale(0.341)"><tspan x="0">purextract</tspan></text>
+  </g>
+</svg>
