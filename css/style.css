@@ -3,7 +3,7 @@
     00 - Home
     01 - Inner Page
         00 - About Us
-        01 - Our History 
+        01 - We Drilling 
 		02 - Services
         03 - Service Detail
         04 - portfolio Detail
@@ -683,7 +683,7 @@ blockquote p {
 .blog-section-inner{
     padding: 80px 0 105px;
 }
-/** 01  Our History**/
+/** 01  We Drilling**/
 .tab-img {
     margin-left: -70px;
 }
